@@ -1,6 +1,8 @@
 # João Victor da Silva Correa
+<!-- 
 [![Linkedin Badge]()](https://www.linkedin.com/in/thevictoor/) 
 [![Gmail Badge]()](mailto:victoorsp@gmail.com)
+-->
 
 ## Hi 👋, 
 I'm João Victor, I'm a software engineer who is passionate about web technologies.
