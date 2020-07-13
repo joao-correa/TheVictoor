@@ -4,8 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:malone.nykolle@gmail.com)](mailto:victoorsp@gmail.com)
 
 ## Hi 👋, 
-I'm João Victor, I'm a software engineer who is passionate about web technologies.
+I'm João Victor, a software engineer who is passionate about web technologies.
 
 - 🔭 I’m currently working on web applications
 - 🌱 I’m currently learning ReactJS and NodeJS
-- ⚡  Languages: Javascript and C#
+- ⚡ Languages: Javascript and C#
