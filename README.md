@@ -6,6 +6,6 @@
 ## Hi 👋, 
 I'm João Victor, a software engineer who is passionate about web technologies.
 
-- 🔭 I’m currently working on web applications
-- 🌱 I’m currently learning ReactJS and NodeJS
-- ⚡ Languages: Javascript and C#
+- 🔭 I’m currently working on develop APIs with Python and Django
+- 🌱 I love learn about Javascript, Python and your ecosystem
+- ⚡ Languages: Javascript and Python
