@@ -6,6 +6,6 @@
 ## Hi 👋, 
 I'm João Victor, a software engineer who is passionate about web technologies.
 
-- 🔭 I’m currently working on develop APIs with Python and Django
+- 🔭 I’m currently developing APIs with Python and Django
 - 🌱 I love learn about Javascript, Python and your ecosystem
 - ⚡ Languages: Javascript and Python
